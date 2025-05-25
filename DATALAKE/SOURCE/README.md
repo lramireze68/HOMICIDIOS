@@ -1,4 +1,5 @@
 SOURCE
+
 Orígenes de los datos utilizados para el análisis
 
 dl_departamentos.csv: Códigos de la División Político Administrativa del país geolocalizado por Departamentos. Fuente: Datos Abiertos.
