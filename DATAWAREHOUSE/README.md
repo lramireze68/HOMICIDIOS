@@ -8,4 +8,4 @@ ETL: Contiene los procesos de Extracción, Transformación y Carga de los datos 
 
 Modelo ER: Modelo Entidad Relación de Copo de Nieve del Data Warehouse.
 
-
+![DATAWAREHOUSE](/DATAWAREHOUSE/SCRIPTS/Diagrama.png)
